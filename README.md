@@ -1,4 +1,4 @@
-# Budget-Tracker
+# Budget-Tracker.
 
 This web app lets you enter in purchases and expenses online and offline, and tracks the data with a graph
 <//////////////////////////////////////////////////////////////////////////////////////////////////////////////>
